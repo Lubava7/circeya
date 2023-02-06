@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/circeya/static/css/main.486b5b44.css",
+    "main.js": "/circeya/static/js/main.089c4022.js",
+    "static/js/787.3c3bd9f7.chunk.js": "/circeya/static/js/787.3c3bd9f7.chunk.js",
+    "static/media/img1.png": "/circeya/static/media/img1.af1b84aade29ca2f72ea.png",
+    "static/media/item12.png": "/circeya/static/media/item12.55b0dda2cce2cc464217.png",
+    "static/media/item11.png": "/circeya/static/media/item11.91c7bdcfa9a3b054a053.png",
+    "static/media/item6.png": "/circeya/static/media/item6.f348e01342137a5a5ad6.png",
+    "static/media/img2.png": "/circeya/static/media/img2.def97576075beef46bae.png",
+    "static/media/item5.png": "/circeya/static/media/item5.4a5553164a72b6d00827.png",
+    "static/media/img4.png": "/circeya/static/media/img4.4103d28f04f6f10070f6.png",
+    "static/media/item9.png": "/circeya/static/media/item9.4d6c028ee2d31868753c.png",
+    "static/media/item8.png": "/circeya/static/media/item8.392323122d533e37c205.png",
+    "static/media/img3.png": "/circeya/static/media/img3.ade4e97c83c46d33e08c.png",
+    "static/media/item7.png": "/circeya/static/media/item7.6c3823e0d2d595bf4868.png",
+    "static/media/item3.png": "/circeya/static/media/item3.c175af32045307429fdb.png",
+    "static/media/item10.png": "/circeya/static/media/item10.c5e93aaabe986aca2dcf.png",
+    "static/media/item1.png": "/circeya/static/media/item1.3989e42b7a05630498b4.png",
+    "static/media/item2.png": "/circeya/static/media/item2.d00910591d83c8736380.png",
+    "static/media/item4.png": "/circeya/static/media/item4.d9d5904e157bd49989e2.png",
+    "static/media/logoText.svg": "/circeya/static/media/logoText.9a6eca2e5d8f184da8aefd36d0b33f55.svg",
+    "static/media/phone.svg": "/circeya/static/media/phone.4fa9d63740bebb3f39887e5652d07c57.svg",
+    "static/media/logo.svg": "/circeya/static/media/logo.3f2cad67eb84f220ce3a89ac59b1fe25.svg",
+    "index.html": "/circeya/index.html",
+    "main.486b5b44.css.map": "/circeya/static/css/main.486b5b44.css.map",
+    "main.089c4022.js.map": "/circeya/static/js/main.089c4022.js.map",
+    "787.3c3bd9f7.chunk.js.map": "/circeya/static/js/787.3c3bd9f7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.486b5b44.css",
+    "static/js/main.089c4022.js"
+  ]
+}
