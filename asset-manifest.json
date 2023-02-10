@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/circeya/static/css/main.b524e57a.css",
-    "main.js": "/circeya/static/js/main.d991e2eb.js",
+    "main.css": "/circeya/static/css/main.1a6e429a.css",
+    "main.js": "/circeya/static/js/main.29f76b29.js",
     "static/js/787.3c3bd9f7.chunk.js": "/circeya/static/js/787.3c3bd9f7.chunk.js",
     "static/media/img1.png": "/circeya/static/media/img1.af1b84aade29ca2f72ea.png",
     "static/media/item12.png": "/circeya/static/media/item12.55b0dda2cce2cc464217.png",
@@ -23,12 +23,12 @@
     "static/media/phone.svg": "/circeya/static/media/phone.4fa9d63740bebb3f39887e5652d07c57.svg",
     "static/media/logo.svg": "/circeya/static/media/logo.3f2cad67eb84f220ce3a89ac59b1fe25.svg",
     "index.html": "/circeya/index.html",
-    "main.b524e57a.css.map": "/circeya/static/css/main.b524e57a.css.map",
-    "main.d991e2eb.js.map": "/circeya/static/js/main.d991e2eb.js.map",
+    "main.1a6e429a.css.map": "/circeya/static/css/main.1a6e429a.css.map",
+    "main.29f76b29.js.map": "/circeya/static/js/main.29f76b29.js.map",
     "787.3c3bd9f7.chunk.js.map": "/circeya/static/js/787.3c3bd9f7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b524e57a.css",
-    "static/js/main.d991e2eb.js"
+    "static/css/main.1a6e429a.css",
+    "static/js/main.29f76b29.js"
   ]
 }
